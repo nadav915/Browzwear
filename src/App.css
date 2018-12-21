@@ -1,0 +1,28 @@
+.List{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: flex-start;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute; 
+}
+
+.App{
+    background-color: #F5F5F5;
+    width:1200px;
+    margin: auto;
+    height: 518px;
+}
+
+.Container{
+    
+    border-radius: 10px;
+    height: 345px;
+    width: 1024px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    background-color: white;
+    margin: auto;
+}

@@ -1,0 +1,17 @@
+.Nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: flex-start;
+    font-size: 18px;
+    font-weight: 700;
+  
+   
+}
+
+.Font{
+    margin-right:30px;
+}
+
